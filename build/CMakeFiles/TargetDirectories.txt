@@ -1,0 +1,3 @@
+/home/hchc/hello_cpp/build/CMakeFiles/MyCppProject.dir
+/home/hchc/hello_cpp/build/CMakeFiles/edit_cache.dir
+/home/hchc/hello_cpp/build/CMakeFiles/rebuild_cache.dir

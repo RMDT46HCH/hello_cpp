@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MyCppProject.dir/src/main.cpp.o CMakeFiles/MyCppProject.dir/src/task1.cpp.o -o MyCppProject 

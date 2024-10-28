@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hchc/hello_cpp/build",
+  "command": "/usr/bin/c++  -I/home/hchc/hello_cpp/include -g -std=gnu++17 -o CMakeFiles/MyCppProject.dir/src/main.cpp.o -c /home/hchc/hello_cpp/src/main.cpp",
+  "file": "/home/hchc/hello_cpp/src/main.cpp"
+},
+{
+  "directory": "/home/hchc/hello_cpp/build",
+  "command": "/usr/bin/c++  -I/home/hchc/hello_cpp/include -g -std=gnu++17 -o CMakeFiles/MyCppProject.dir/src/task1.cpp.o -c /home/hchc/hello_cpp/src/task1.cpp",
+  "file": "/home/hchc/hello_cpp/src/task1.cpp"
+}
+]
